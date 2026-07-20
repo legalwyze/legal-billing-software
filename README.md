@@ -37,4 +37,4 @@ Legal Software is a comprehensive suite of tools designed to assist law firms in
  - Scalable
  - Proven track record
 
-# Book a Free Demo - LabEQAS(https://www.labeqas.com/)  
+# Book a Free Demo - [LabEQAS](https://www.labeqas.com/)  
