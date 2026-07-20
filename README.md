@@ -11,7 +11,7 @@ Empower your legal team with powerful, centralized billing and time tracking sys
 
 26+ Years of Experiences
 
-Book a Free Demo - https://www.labeqas.com/
+**Book a Free Demo - https://www.labeqas.com/**
 
 # What is legal software?
 Legal Software is a comprehensive suite of tools designed to assist law firms in running their businesses more effectively. It consists of functions like time management, case and document management, client communication, legal billing software, and integration with legal APIs. AI in legal is tech also used in software to perform legal tasks like document review, legal research, workflow automation, and predictive analytics, which helps law firms save time, cut down on mistakes, and make better decisions.
